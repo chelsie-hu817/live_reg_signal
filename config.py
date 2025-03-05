@@ -1,8 +1,8 @@
 import datetime
 
 # Input the username and password to connect MongoDB
-username = 'chelsie_hu'
-password = 'q3AFVXhvENGbVHw4'
+username = ''
+password = ''
 
 # Set data range
 start_date = (datetime.datetime.today() - datetime.timedelta(days = 1)).replace(hour=0, minute=0, second=0, microsecond=0) # yesterday
